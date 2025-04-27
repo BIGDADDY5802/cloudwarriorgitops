@@ -1,4 +1,3 @@
 # cloudwarriorgitops
-
-![alt text](image.png)
+c:\Users\First\Downloads\tittiecity.gif
 
