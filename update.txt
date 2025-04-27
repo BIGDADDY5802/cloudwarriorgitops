@@ -1,3 +1,19 @@
 # update through command line
 # update through command line
 # update through command line
+
+git init creates a local git repo
+
+a repository is essentially a centralized storage location for all the files and the history of changes to those files for a particular project.
+Append - add to end 
+Prepend - add to beginning
+
+WIN + Tab = quick switch to previous window
+
+Cloning a repository pulls down a full copy of all the repository data that GitHub.com has at that point in time, including all versions of every file and folder for the project. You can push your changes to the remote repository on GitHub.com, or pull other people's changes from GitHub.com.
+Cut - ctrl+ x
+Copy - ctrl+ c
+Paste - ctrl+ v
+Gitbash Paste - shift + ins
+Git commit commits staged changes to the local repo
+type "git status" to verify the files that have been staged
