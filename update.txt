@@ -19,3 +19,12 @@ Git commit commits staged changes to the local repo
 type "git status" to verify the files that have been staged
 
 git add - adds file to repo
+
+git push - moves local repo to online repo
+ 
+
+ Repository - Directory that is pushed to github
+list of git commands
+ https://git-scm.com/docs
+
+The command git remote add origin {url} is used in Git to create a new connection to a remote repository and give that connection a name, which is conventionally origin.
