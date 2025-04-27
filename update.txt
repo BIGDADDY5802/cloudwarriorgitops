@@ -17,3 +17,5 @@ Paste - ctrl+ v
 Gitbash Paste - shift + ins
 Git commit commits staged changes to the local repo
 type "git status" to verify the files that have been staged
+
+git add - adds file to repo
